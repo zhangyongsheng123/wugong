@@ -6,6 +6,7 @@ public class dugujiujian {
 		System.err.println("破剑式");
 		System.err.println("破刀式");
 		System.err.println("破枪式");
+		System.err.println("破棍式");
 	}
 
 }
